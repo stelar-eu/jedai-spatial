@@ -119,7 +119,7 @@ Attributes of keys: `source`, `target`
 	  <td><code>prefix_RDF</code></td>
 	  <td>Prefix of the RDF triples</td>
 	  <td><code>string</code></td>
-	  <td></td> 
+	  <td>&#10004; if <code>rdf</code></td> 
   </tr>
 </table>
 
