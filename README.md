@@ -1,6 +1,9 @@
-# README PyJedAI - Entity Matching
+# README - JedAI-spatial for three-dimensional Geospatial Interlinking 
 
-The following README will guide you through the whole process of Entity Matching using pyJedAI.
+The following README will guide you through the whole process of Geospatial Interlinking using jedAI-spatial.
+
+
+>  &#x1F4A1; **Tip:** If you want to learn more about jedAI-spatial read the docs <a href="https://github.com/AI-team-UoA/JedAI-spatial">here</a>.
 
 ## Input
 **For all key attributes in JSON, exactly one file path must be provided.**
